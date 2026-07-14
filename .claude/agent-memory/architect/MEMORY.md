@@ -1,0 +1,1 @@
+- [Project Plan Baseline](project_plan_baseline.md) — core interpretation, stack, stage list, and signal model defaults decided when PLAN.md was first created (2026-07-14)
